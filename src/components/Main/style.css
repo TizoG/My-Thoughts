@@ -1,0 +1,19 @@
+section {
+    padding: 24px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 16px;
+}
+
+.card {
+    padding: 16px;
+    width: 950px;
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
